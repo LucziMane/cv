@@ -1,2 +1,2 @@
 # cv
-My first trining website
+My first website
